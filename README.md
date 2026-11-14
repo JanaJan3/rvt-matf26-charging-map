@@ -1,1 +1,1 @@
-# Matf-RVTech-AWS-batteryMap
+# rvt-matf26-charging-map
